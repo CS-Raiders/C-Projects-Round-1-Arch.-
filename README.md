@@ -11,7 +11,7 @@ An archive for the first round in C projects ( CS Raiders related ).
 
   - ### Team 4  -> 9.75/10| Attendants : 7  |  Code Review + Program Functionality Score : 15/15    |   Over All : 24.75/25
 
-  ## + Third Place 🥉:
++ ## Third Place 🥉:
 
   - ### Team 1  -> 9.5/10 | Attendants : 7  |  Code Review + Program Functionality Score : 14.5/15  |   Over All : 24/25
 
