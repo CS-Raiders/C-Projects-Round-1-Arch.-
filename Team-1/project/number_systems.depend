@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1706446243 source:c:\users\ziada\desktop\computer science\computer science\c\number_systems\main.c
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1706448362 source:c:\users\yousef\desktop\day 1 projects\team-1\project\main.c
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1706448362 source:c:\users\moabd\onedrive\desktop\day 1 projects\team-1\project\main.c
+	<math.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+

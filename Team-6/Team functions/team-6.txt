@@ -1,0 +1,7 @@
+Team 6
+Salma Essam : Binary --> Decimal
+Sara Hatem: clear
+Sama Abdelnaser : begin , menu, end
+Moaz Hassanin : Hexa--> Decimal
+Sara Mohamed : Decimal --> all
+Mariam Adel: Octal --> Decimal , Octal --> Binary

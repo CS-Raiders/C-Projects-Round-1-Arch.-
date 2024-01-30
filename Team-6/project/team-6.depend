@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1706446386 source:c:\users\yousef\desktop\day 1 projects\team-6\project\main.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	<stdbool.h>
+

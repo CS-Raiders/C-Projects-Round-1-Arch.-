@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1706428387 source:d:\projects\cs_raiders_numberconverter_team4_singlefile\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<string.h>
+
+1706431837 source:d:\projects\cs_raiders_numberconverter_team4\cs_raiders_numberconverter_team4_singlefile\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<string.h>
+
+1706431838 source:d:\new folder (2)\grade 1 projects\team-4\project\cs_raiders_numberconverter_team4_singlefile\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<string.h>
+
+1706431838 source:c:\users\moabd\onedrive\desktop\day 1 projects\team-4\project\cs_raiders_numberconverter_team4_singlefile\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<string.h>
+
+1706431838 source:c:\users\yousef\desktop\day 1 projects\team-4\project\cs_raiders_numberconverter_team4_singlefile\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<string.h>
+

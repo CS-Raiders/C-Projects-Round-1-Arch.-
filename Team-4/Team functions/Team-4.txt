@@ -1,0 +1,8 @@
+Team 4
+Hamed Azam , Worked on: All decimal conversions , All binary conversions , All octal conversions
+Gehad AbdulAziz , Worked on: All decimal conversions.
+Ghada Saeed , Worked on: All decimal conversions
+Malk Mostafa , Worked on: Conversions from octal to decimal and binary, conversion from decimal to octal.
+Nour Hatem , Worked on: Octal system conversions
+Omar Ayman , Worked on: All hexadecimal conversions And from octal and binary to decimal,writing the program code
+Pola Talaat , Worked on: Binary system conversions
