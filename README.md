@@ -1,9 +1,9 @@
 # C-Projects-Round-1
 An archive for the first round in C projects ( CS Raiders related ).
 
+## SUPER STAR of Round 1 --> 🎖️" Mohanad El Sayed "🎖️
 
-
-+ ## First Place 🥇🥇🥇:    SUPER STAR of Round 1 --> 🎖️" Mohanad El Sayed "🎖️
++ ## First Place 🥇🥇🥇:
 
   - ### Team 9  -> 10/10  | Attendants : 7  |  Code Review + Program Functionality Score : 15/15    |   Over All : 25/25
 
