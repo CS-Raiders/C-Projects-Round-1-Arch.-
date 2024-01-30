@@ -7,16 +7,15 @@ An archive for the first round in C projects ( CS Raiders related ).
 
 ### - Team 9  -> 10/10  | Attendants : 7  |  Code Review + Program Functionality Score : 15/15    |   Over All : 25/25
 
-## * Second Place 🥈🥈:
+## + Second Place 🥈🥈:
 
   ### - Team 4  -> 9.75/10| Attendants : 7  |  Code Review + Program Functionality Score : 15/15    |   Over All : 24.75/25
 
-  ## * Third Place 🥉:
+  ## + Third Place 🥉:
 
   ### - Team 1  -> 9.5/10 | Attendants : 7  |  Code Review + Program Functionality Score : 14.5/15  |   Over All : 24/25
 
-
-#### * Team 6  -> 7.5/10 | Attendants : 6  |  Code Review + Program Functionality Score : 12/15    |   Over All : 19.5/25
++#### Team 6  -> 7.5/10 | Attendants : 6  |  Code Review + Program Functionality Score : 12/15    |   Over All : 19.5/25
 
 
 #### * Team 2  -> 8.5/10 | Attendants : 6  |  Code Review + Program Functionality Score : 10/15    |   Over All : 18.5/25
